@@ -27,7 +27,7 @@ br = st.sidebar.button("Çalıştır")
 # Log alanı oluştur
 log_container = st.empty()
 
-# Zaman pencere kontrolü fonksiyonu
+# Zaman pencere kontrolü Fonksiyonu
 
 def evaluate_solution_ui(individual: Dict[int, List[int]], graph: Graph):
     delivered = 0
