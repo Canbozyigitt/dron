@@ -2,7 +2,7 @@
 
 Bu proje, enerji kısıtları, dinamik no-fly zone'lar ve zaman pencereleri (TSPTW) dahil kompleks kısıtlar altında çalışan dronelar için teslimat rotalarını optimize eden bir Python uygulamasıdır.
 
-## Özellikler
+## Özellikler.
 
 - **Veri Yapıları**: Drone, Teslimat Noktası ve No-Fly Zone tanımları (`dataclass` ile)
 - **A\***: Tek-duraklı rota planlaması (zaman penceresi & no-fly cezaları)
